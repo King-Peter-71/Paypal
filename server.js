@@ -35,7 +35,7 @@ if (!fs.existsSync(USERS_FILE)) {
         email: "admin@example.com",
         password: "admin123", // In a real app, this would be hashed
         role: "admin",
-        balance: 500000000,
+        balance: 5000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000900088889990,
         currency: "USD",
         status: "active",
         createdAt: new Date().toISOString(),
